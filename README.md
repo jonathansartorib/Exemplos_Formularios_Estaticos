@@ -18,6 +18,8 @@ Este repositório contém exemplos simples de códigos para criar formulários e
 
 - **SMTP.js**: Mostra como integrar um formulário com SMTP.js para envio de dados via SMTP.
 - **Link**: https://smtpjs.com/
+- **Link**: https://elasticemail.com/select-product
+
 
 ## Como Usar
 

@@ -22,9 +22,9 @@ function sendEmail(){
 
     let dataDoFatoBrasileira = dataDoFatoAmericana.split('-').reverse().join('/');//transform date to brazilian format
 
-    let emailControle = "elogio26bpmm@gmail.com";
-    let emailCopia ="26bpmmp5@policiamilitar.sp.gov.br";
-    let emailOutraCopia ="26bpmm3ciap1@policiamilitar.sp.gov.br";
+    let emailControle = "emailControle@example.com";
+    let emailCopia ="emailCopia@example.com";
+    let emailOutraCopia ="emailOutraCopia@example.com";
     let destinatario =  emailOutraCopia + ", " + emailControle + ", " + emailSolicitante + ", " + emailCopia;
 
     let corpoDoEmail = //body email
